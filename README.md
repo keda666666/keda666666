@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Alibaba
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on JSPI
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Android
 - 💬 Ask me about Python&Alibaba
